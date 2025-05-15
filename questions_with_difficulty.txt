@@ -1,0 +1,806 @@
+What is the primary purpose of an operating system?
+a) To manage hardware resources
+b) To provide internet access
+c) To run applications
+d) To manage user accounts
+A
+1
+
+Which of the following is not an operating system?
+a) Windows
+b) Linux
+c) Microsoft Office
+d) macOS
+C
+1
+
+What does CPU stand for?
+a) Central Processing Unit
+b) Central Program Unit
+c) Computer Personal Unit
+d) Central Peripheral Unit
+A
+1
+
+Which of the following is a type of operating system?
+a) Batch
+b) Interactive
+c) Real-time
+d) All of the above
+D
+1
+
+What is a kernel?
+a) The core component of an operating system
+b) A type of software application
+c) A hardware component
+d) A programming language
+A
+1
+
+Which function is not managed by an operating system?
+a) Memory management
+b) Process scheduling
+c) Directly executing user applications
+d) File management
+C
+1
+
+What is multitasking in operating systems?
+a) Running one process at a time
+b) Running multiple processes concurrently
+c) Running multiple threads in a process
+d) Running background services only
+B
+1
+
+Which of the following is a real-time operating system?
+a) Windows 10
+b) Linux
+c) RTOS
+d) macOS
+C
+1
+
+What is the main role of the file system in an OS?
+a) Managing files and directories
+b) Scheduling tasks
+c) Allocating memory
+d) Handling user input
+A
+1
+
+What does GUI stand for?
+a) Graphical User Interface
+b) General User Interface
+c) Graphical Universal Interface
+d) Generalized User Interface
+A
+1
+
+Which of the following is a benefit of using an operating system?
+a) Simplifies hardware complexity
+b) Increases hardware costs
+c) Reduces system security
+d) Decreases usability
+A
+1
+
+What is a process in an operating system?
+a) A program in execution
+b) A set of instructions stored on disk
+c) A file in the file system
+d) A hardware component
+A
+1
+
+Which of the following scheduling algorithms is non-preemptive?
+a) Round Robin
+b) First-Come First-Served (FCFS)
+c) Shortest Remaining Time First
+d) Preemptive Priority Scheduling
+B
+1
+
+What is virtual memory?
+a) Memory present on the CPU
+b) Memory allocated from the hard disk to simulate RAM
+c) Memory that is physically installed
+d) A cache memory system
+B
+3
+
+Which of the following is a system call for process creation in Unix?
+a) fork()
+b) exec()
+c) wait()
+d) exit()
+A
+3
+
+What is deadlock in operating systems?
+a) A process in infinite loop
+b) A state where processes are waiting indefinitely for resources
+c) A memory leak
+d) A hardware failure
+B
+3
+
+Which technique is used to avoid deadlock?
+a) Resource allocation graph
+b) Round Robin scheduling
+c) Multithreading
+d) Caching
+A
+3
+
+Which of the following is not a characteristic of a multitasking OS?
+a) Concurrent execution of processes
+b) Isolation of process spaces
+c) Exclusive CPU utilization by one process forever
+d) Time-sharing
+C
+3
+
+Which of the following is used for inter-process communication?
+a) Pipes
+b) Shared memory
+c) Message queues
+d) All of the above
+D
+3
+
+What does the term "context switch" refer to?
+a) Switching from user mode to kernel mode
+b) Changing the process running on the CPU
+c) Switching between hardware devices
+d) Switching file descriptors
+B
+3
+
+What is the purpose of a bootloader?
+a) To load the operating system into memory
+b) To manage user sessions
+c) To manage hardware devices
+d) To compile code
+A
+3
+
+What is segmentation in memory management?
+a) Dividing memory into fixed-size blocks
+b) Dividing memory into variable-size segments based on logical divisions
+c) Swapping memory pages to disk
+d) Caching memory accesses
+B
+3
+
+What is paging in operating systems?
+a) A memory management scheme that eliminates external fragmentation
+b) A file system technique
+c) A scheduling algorithm
+d) A network protocol
+A
+3
+
+What is a device driver?
+a) A program that controls a hardware device
+b) A hardware component
+c) A type of file
+d) A user interface element
+A
+3
+
+Which of the following is not an OS scheduling algorithm?
+a) First-Come, First-Served (FCFS)
+b) Shortest Job First (SJF)
+c) Binary Search
+d) Round Robin
+C
+3
+
+What is a thread in an operating system?
+a) A lightweight process
+b) A type of file system
+c) A hardware component
+d) A type of memory
+A
+3
+
+Which of the following is used for synchronization?
+a) Mutex
+b) Semaphore
+c) Monitor
+d) All of the above
+D
+3
+
+Which one is not a valid state of a process?
+a) Running
+b) Blocked
+c) Waiting
+d) Sleeping permanently
+D
+3
+
+What is the purpose of the scheduler in an OS?
+a) To decide which process to run next
+b) To manage file system operations
+c) To allocate disk space
+d) To compile code
+A
+2
+
+Which operating system is known for its microkernel architecture?
+a) Linux
+b) Windows NT
+c) QNX
+d) MS-DOS
+C
+3
+
+What is the primary function of the shell in an OS?
+a) Provide a user interface to the operating system
+b) Manage system memory
+c) Control hardware devices
+d) Schedule processes
+A
+3
+
+What is a system call?
+a) A request by a program to the OS for a service
+b) A hardware interrupt
+c) A file read operation
+d) A user input command
+A
+2
+
+Which of the following is a disadvantage of a monolithic kernel?
+a) Efficiency issues
+b) Complexity and difficulty to maintain
+c) Limited hardware support
+d) Poor security
+B
+3
+
+What is an interrupt in an operating system?
+a) A signal that temporarily halts a process
+b) A user request for a file
+c) A process termination command
+d) A scheduling algorithm
+A
+2
+
+Which file system is used by most Windows operating systems?
+a) NTFS
+b) ext4
+c) FAT32
+d) HFS+
+A
+3
+
+Which file system is most commonly used in Linux?
+a) NTFS
+b) FAT32
+c) ext4
+d) HFS+
+C
+2
+
+What does the command 'ls' do in Unix/Linux?
+a) Lists directory contents
+b) Changes the directory
+c) Deletes files
+d) Copies files
+A
+2
+
+What is a shell script?
+a) A script written for the shell to automate tasks
+b) A compiled C program
+c) A binary executable
+d) A hardware driver
+A
+3
+
+Which command is used to change file permissions in Unix/Linux?
+a) chmod
+b) chown
+c) ls
+d) cp
+A
+2
+
+What is the purpose of the 'grep' command in Unix/Linux?
+a) To search for patterns in files
+b) To change file permissions
+c) To list directory contents
+d) To compile code
+A
+3
+
+What is the difference between a process and a thread?
+a) A process is a program in execution, a thread is a unit of execution within a process
+b) There is no difference
+c) A thread runs independently from processes
+d) A process is a hardware component
+A
+2
+
+Which technique is used to ensure mutual exclusion?
+a) Locking mechanisms
+b) Thread pooling
+c) File caching
+d) Data replication
+A
+3
+
+What does DMA stand for in computer systems?
+a) Direct Memory Access
+b) Dynamic Memory Allocation
+c) Digital Memory Adapter
+d) Direct Mode Access
+A
+2
+
+Which of the following is an advantage of multithreading?
+a) Faster context switching than processes
+b) Lower resource consumption
+c) Improved performance on multi-core systems
+d) All of the above
+D
+2
+
+What is a context switch?
+a) Saving the state of a process and loading the state of another
+b) Switching from user mode to kernel mode
+c) Changing file permissions
+d) A network operation
+A
+2
+
+What does API stand for?
+a) Application Programming Interface
+b) Advanced Programming Internet
+c) Applied Program Interface
+d) Automated Process Integration
+A
+2
+
+Which of the following is used to define system calls?
+a) API
+b) ABI
+c) CLI
+d) GUI
+A
+3
+
+What is the role of the scheduler in process management?
+a) Allocating CPU time to processes
+b) Managing file systems
+c) Allocating disk space
+d) Managing network protocols
+A
+2
+
+What is the purpose of virtual memory?
+a) To extend physical memory using disk space
+b) To provide faster processing
+c) To store user data permanently
+d) To manage hardware interrupts
+A
+2
+
+Which of the following is a common memory allocation algorithm?
+a) First-Fit
+b) Best-Fit
+c) Worst-Fit
+d) All of the above
+D
+2
+
+What is a system daemon?
+a) A background process that runs continuously
+b) A graphical user interface component
+c) A system library
+d) A hardware driver
+A
+2
+
+What does OS stand for?
+a) Operating System
+b) Open Source
+c) Object System
+d) Operating Software
+A
+2
+
+Which of the following is not a type of OS kernel?
+a) Monolithic kernel
+b) Microkernel
+c) Hybrid kernel
+d) Digital kernel
+D
+2
+
+What is the role of the BIOS in a computer?
+a) It initializes hardware during boot-up
+b) It manages user applications
+c) It provides graphical interface
+d) It stores user data
+A
+2
+
+Which scheduling algorithm gives each process a fixed time in the CPU?
+a) Round Robin
+b) First-Come First-Served
+c) Shortest Job First
+d) Priority Scheduling
+A
+2
+
+What is the purpose of a process control block (PCB)?
+a) To store process information
+b) To manage files
+c) To handle interrupts
+d) To allocate memory
+A
+2
+
+What does "spooling" refer to in OS terminology?
+a) Managing input/output operations
+b) Multiplexing devices
+c) Storing data temporarily
+d) Scheduling processes
+C
+2
+
+What is the primary purpose of an interrupt?
+a) To signal the processor about an event
+b) To stop all processes
+c) To save memory
+d) To manage files
+A
+2
+
+Which of the following is a disadvantage of virtual memory?
+a) Slower access times compared to physical memory
+b) Increased memory capacity
+c) Improved multitasking
+d) Enhanced security
+A
+2
+
+What is a shell in Unix/Linux?
+a) A command-line interpreter
+b) A graphical user interface
+c) A process scheduler
+d) A network protocol
+A
+2
+
+Which of the following is a property of a good scheduling algorithm?
+a) Fairness
+b) Efficiency
+c) Response time minimization
+d) All of the above
+D
+1
+
+What is the purpose of system calls?
+a) To allow programs to request services from the OS
+b) To create graphical user interfaces
+c) To manage hardware directly
+d) To allocate disk space
+A
+1
+
+What does the term "preemptive scheduling" mean?
+a) The scheduler can interrupt a process to assign CPU to another process
+b) The scheduler waits until a process finishes
+c) The scheduler processes tasks in a fixed order
+d) The scheduler only runs background processes
+A
+2
+
+What is an I/O bound process?
+a) A process limited by input/output operations
+b) A process limited by CPU speed
+c) A process with high memory usage
+d) A process that never terminates
+A
+2
+
+Which of the following is not a valid file permission in Unix/Linux?
+a) Read
+b) Write
+c) Execute
+d) Modify
+D
+1
+
+What is the purpose of the command 'ps' in Unix/Linux?
+a) To list active processes
+b) To change directories
+c) To copy files
+d) To delete files
+A
+2
+
+What is a core dump?
+a) A file containing memory contents when a process crashes
+b) A log file for system events
+c) A hardware failure report
+d) A network protocol
+A
+2
+
+Which of the following is an advantage of a multi-user operating system?
+a) Resource sharing among users
+b) Increased hardware cost
+c) Limited accessibility
+d) Single-task operation
+A
+2
+
+What is the function of the 'kill' command in Unix/Linux?
+a) To terminate a process
+b) To start a process
+c) To list processes
+d) To compile code
+A
+2
+
+Which of the following is not a typical component of an operating system?
+a) Process management
+b) Memory management
+c) Word processing
+d) File system management
+C
+2
+
+What is the main purpose of caching in operating systems?
+a) To speed up data access
+b) To store large amounts of data permanently
+c) To manage file permissions
+d) To allocate CPU time
+A
+2
+
+Which of the following is a type of backup strategy?
+a) Full backup
+b) Incremental backup
+c) Differential backup
+d) All of the above
+D
+2
+
+What is the primary role of an OS kernel?
+a) To manage system resources and hardware
+b) To provide user interface
+c) To compile programs
+d) To store user files
+A
+2
+
+Which of the following is a common programming language used for system programming?
+a) C
+b) Python
+c) Java
+d) Ruby
+A
+1
+
+What is the purpose of a system monitor?
+a) To track system performance and resource usage
+b) To update system drivers
+c) To run applications
+d) To format disks
+A
+1
+
+What is load balancing?
+a) Distributing workloads across multiple computing resources
+b) Increasing CPU frequency
+c) Reducing network latency
+d) Managing memory usage
+A
+1
+
+Which of the following is a method of ensuring process synchronization?
+a) Semaphores
+b) Signals
+c) Interrupts
+d) Buffers
+A
+2
+
+What is the purpose of the 'top' command in Unix/Linux?
+a) To display real-time system processes and resource usage
+b) To change file ownership
+c) To compile source code
+d) To copy directories
+A
+1
+
+Which of the following is not an advantage of multithreading?
+a) Faster context switching
+b) Improved application performance
+c) Increased memory overhead
+d) Better resource utilization
+C
+1
+
+What does SMP stand for in operating systems?
+a) Symmetric Multiprocessing
+b) Simple Memory Protocol
+c) Single Mode Processing
+d) Systematic Multiplexing Process
+A
+2
+
+Which of the following describes an embedded operating system?
+a) An OS designed for specialized devices with limited resources
+b) An OS for desktop computers
+c) A server-based operating system
+d) A cloud-based OS
+A
+1
+
+What is the role of a hypervisor?
+a) To create and manage virtual machines
+b) To control network traffic
+c) To store user data
+d) To manage file systems
+A
+2
+
+Which of the following is a common virtualization technology?
+a) VMware
+b) VirtualBox
+c) KVM
+d) All of the above
+D
+2
+
+What is a container in modern OS terms?
+a) A lightweight, standalone package that contains everything needed to run a piece of software
+b) A physical hardware component
+c) A type of file system
+d) A virtual machine with full hardware emulation
+A
+1
+
+Which of the following is not a common security feature in operating systems?
+a) User authentication
+b) Firewall
+c) Intrusion detection system
+d) Unlimited file access
+D
+2
+
+What does RAID stand for?
+a) Redundant Array of Independent Disks
+b) Random Access of Integrated Devices
+c) Rapid Array of Independent Data
+d) Read And Install Data
+A
+2
+
+What is the function of a swap space in virtual memory?
+a) To extend physical memory by using disk space
+b) To speed up CPU operations
+c) To store system logs
+d) To manage network connections
+A
+2
+
+Which of the following is a valid method for user authentication?
+a) Password-based authentication
+b) Biometric authentication
+c) Two-factor authentication
+d) All of the above
+D
+2
+
+What is the purpose of a continuous integration/continuous deployment (CI/CD) pipeline?
+a) To automate software development processes
+b) To manage user sessions
+c) To compile hardware drivers
+d) To encrypt user data
+A
+2
+
+What is a system image?
+a) A complete snapshot of a computer system's state and configuration
+b) A graphical user interface
+c) A type of file format
+d) A backup of user data only
+A
+1
+
+Which of the following is a function of the OS scheduler?
+a) Managing CPU allocation among processes
+b) Managing disk space
+c) Managing network protocols
+d) Managing application interfaces
+A
+2
+
+What does SMP stand for?
+a) Symmetric Multiprocessing
+b) Single Memory Processing
+c) Systematic Memory Protocol
+d) Shared Multiprocessing
+A
+2
+
+Which of the following best describes a hyperthreading CPU?
+a) A CPU that can run multiple threads concurrently on a single core
+b) A CPU that has multiple physical cores
+c) A CPU designed for mobile devices
+d) A CPU with dedicated graphics processing
+A
+1
+
+What is the purpose of a memory leak detection tool?
+a) To identify when a program fails to release unused memory
+b) To speed up the execution of programs
+c) To manage file permissions
+d) To allocate disk space
+A
+2
+
+Which of the following is a function of an operating system's command interpreter?
+a) To parse and execute user commands
+b) To manage hardware interrupts
+c) To allocate CPU resources
+d) To perform memory management
+A
+2
+
+What is the main purpose of the OS kernel?
+a) To provide an interface between hardware and software
+b) To compile user applications
+c) To manage user accounts only
+d) To run network protocols
+A
+1
+
+Which of the following is a characteristic of a good operating system?
+a) Stability and reliability
+b) High performance
+c) User-friendliness
+d) All of the above
+D
+2
+
+What does the term "booting" refer to?
+a) The process of starting up a computer
+b) The process of shutting down a computer
+c) The process of updating software
+d) The process of managing files
+A
+2
+
+Which of the following is not a function of an operating system?
+a) Managing system resources
+b) Providing a user interface
+c) Editing documents
+d) Handling hardware operations
+C
+2
+
+What is the benefit of using an operating system?
+a) It provides a convenient interface for users and manages hardware resources efficiently
+b) It increases system complexity
+c) It restricts user control
+d) It solely manages network communications
+A
+2
+Which of the following is not an operating system?
+windows
+linux
+ms office
+macos
+C
+1
